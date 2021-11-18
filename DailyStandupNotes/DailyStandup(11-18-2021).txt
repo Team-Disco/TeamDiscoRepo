@@ -1,0 +1,18 @@
+﻿Joshua
+* Went over javascript and attempted to make a picture div on webpage draggable.
+* Ran into issues with understanding the code to achieve this function.
+Matari
+* Added a function to a text field to change the background color on keypress.
+* Added a function to his image on his webpage where it would shrink the image upon clicking on it.
+* Main challenge is trying to think of a business to model project 0 off of.
+Jalen
+* Spent a lot of time relearning github to get more comfortable with it.
+* Also went through javascript to learn the language better.
+* Added a button to change the background of the webpage and a hover function for an image to make it expand.
+Hae Hwan
+* Added a mouseover listener to make the picture of himself expand and a mouseout to make it shrink back.
+* Added a function on his table to 
+* Main issues were trying to implement the shopping web page due to the unique structure required to implement such a webapp.
+   * Managed to make some breakthroughs on this challenge by utilizing arrays.
+Nicholas
+* Worked mostly on adding two different function: making the image iterate through an album on click with fade in animations through css, making the image change to an image of the artist hovered over in the favorite artists table.
