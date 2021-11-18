@@ -1,0 +1,82 @@
+﻿HTML, CSS, and JS Review
+
+
+What is the difference between a Tag, Element, and Attribute?
+- Tag: A snippet of code used to denote the type of element contained within the tag. 
+- Element: The content contained within a specified tag.
+- Attribute: The characteristics of a tag that can denote special properties. Ex. classes, id, height, etc.
+
+
+Give an example of at least 1 block element and 1 inline element.
+- Block: <p> Paragraphs, <div> Divs
+- Inline: <a> Hyperlinks, <btn> buttons, <img> images, <span> span
+
+
+What are some tools to enable our websites to be accessible to all users?
+- Accessible Rich Internet Applications (ARIA). Some specific tools include: alt attributes to describe images, aria-checked attributes to specify whether a checkbox is checked or not, aria-labelledby attribute to specify which label describes the current element.
+
+
+What is a selector in CSS?
+- A selector in CSS is a way to identify a specific element or group of elements based on tag type, class, id, or a combination of them. The purpose of these selectors is to be able to style them accordingly through CSS.
+
+
+What is a Property in CSS?
+- A property in CSS is a parameter that affects the way a certain element is visually styled and displayed on a webpage.
+
+
+What does Responsive mean in the context of web design?
+- Designing a webpage to be responsive means to accommodate certain design elements to account for different devices, viewports, or orientations.
+
+
+Explain the Box Model.
+- The box model wraps around every html element and consists of the margin, the border, the padding, and the actual content of the element. The padding consists of the space between the content and the border while the margin consists of the space between the border and the bounds of the margin. When setting background color, only white-space contained within the padding would be affected.
+
+
+What does Type Coercion refer to?
+- When trying to enact an operand on two variables of different data types, Javascript will attempt to automatically cast one variable to the same datatype as the other. This can lead to getting an unexpected result and is thus important to keep in mind when dealing with differing data types.
+
+
+What are the Falsey values?
+- Any empty string (``, ‘’, “”)
+- NaN
+- Null
+- Undefined
+- False
+- 0, 0n, -0
+- document.all
+
+
+What is the difference between =, ==, and === in JavaScript? (Research this one!)
+- =: This is the assignment operator that assigns the right value to the left variable
+- ==: This is an equality comparator that compares the values of the two variables on the left and right. Javascript will enact type coercion if the two variables are of different data types.
+- ===: This is the strict equality comparator that, similarly to the normal equality comparator, will attempt to evaluate whether the two variables on its left and right are of the same value. However, if both variables are NOT of the same data type, it will always evaluate to false without attempting type coercion.
+
+
+What is the difference between "let" and "var"?
+- let: Let establishes a variable limited to the local scope of where it was instantiated.
+- var: Var establishes a variable to the global scope.
+
+
+What is the DOM?
+- The Document Object Model (DOM) is the tree structure of an html webpage that contains all of the elements contained within the page with the root of the tree being the html tag.
+
+
+How do we enable our webpage to react to user input?
+- In order to have our webpage react to user input we utilize javascript through its implementation of functions, event listeners, event handlers, etc. 
+
+
+What are the phases of event propogation?
+- The capturing phase sends the event down from the root to the origin of the event and visits all elements in between. 
+- The bubbling phase sends the event back up the tree from the event origin to the root of the DOM and visits all elements in between.
+
+
+Name 2 differences between arrow functions and normal functions.
+- The “this” keyword refers to the parent of the function when used in a normal function whereas arrow functions inherit their “this” keyword from their parent.
+- Normal functions are hoisted whereas arrow functions are not due to arrow functions only being able to be written as an expression.
+- Arrow functions can NOT contain access arguments.
+- Arrow functions can NOT be used as a constructor
+- If an arrow function contains only one line, it will automatically return the value of that expression.
+
+
+What is a Decorator?
+- Decorators are special functions that wrap sections of code and when used in conjunction with a transpiler can add additional functions.
