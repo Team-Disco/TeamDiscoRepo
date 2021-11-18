@@ -1,0 +1,16 @@
+11/17/2021
+
+Matari -Completed challenge.  Roadblocks was being able to pull working branch.  Overcame this by using a different name than origin.
+
+Nicholas-Use float attribute putting image to the left,  Put text next to picture.  Roadblock when he text was treated as block line element 
+Fix-put text and unoredered list put it into a div, made everything aligned.
+
+Jalen-Css added image, added short bio, change font, background with HTML.  Challenge getting it pushed to github.
+Was not able to overcome that as of yet.
+
+Hae Hwan Cha-Completed the challenge.  Used materials from Jared to push to github.  Same problem as Nicholas making the picture 
+align, but did not overcome this.  Recommended fix use CSS float feature.  Used W3Schools to do hover.
+
+Joshua-Working on challenge.  Roadblock was github commands.
+
+What we will do next-Create project Zero repository
