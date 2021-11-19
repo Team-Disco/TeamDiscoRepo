@@ -1,0 +1,16 @@
+﻿Jalen
+* Reviewed notes and lectures to go over content and understand the content better.
+
+
+Joshua
+* Reviewed notes to get a better grasp on the material
+* Started working on wireframe and ran into some difficulty with knowing the best design practices and trying to follow them.
+
+
+Matari
+* Worked on challenge 5 as well as project 0 wireframe.
+* Ran into some difficulty with implementing add and remove features for challenge 5. Also ran into some difficulty designing wireframe but was able to overcome
+
+
+Nick
+* Reviewed notes to get a better grasp on lightning web components and how css, scoping, etc work in the context of within components and outside of them.
