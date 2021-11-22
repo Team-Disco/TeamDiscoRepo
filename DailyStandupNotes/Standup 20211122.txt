@@ -1,0 +1,6 @@
+Matari- working on project, getting the html to show on the browser
+asked for help from coworkers linked up javascript and got app.html to show up on the browser
+Jalen- finished HTML portion of project, nodes not working.
+Nicholas- review, prepped for QC and quizzes, wireframed.  Website for a game. Roadblocks:
+grasping concepts on data binding
+Josh- review, prepped QC and quizzes. roadblocks: spend less time going deep into topics
