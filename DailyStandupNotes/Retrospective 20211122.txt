@@ -1,0 +1,5 @@
+Retrospective:
+What went well this week: first two days of material was well paced and we were able to grasp the concepts 
+What did not go well: github setup and learning the commands to allow for the transfer of data between vscode and github, 
+JavaScript (very technical and a lot of material)
+What to improve, actionable items: study sessions after technical sessions discord, office hours for Jared
