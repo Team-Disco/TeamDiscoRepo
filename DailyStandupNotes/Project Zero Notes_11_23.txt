@@ -1,0 +1,31 @@
+11/17/2021
+
+Matari -Completed challenge.  Roadblocks was being able to pull working branch.  Overcame this by using a different name than origin.
+
+Nicholas-Use float attribute putting image to the left,  Put text next to picture.  Roadblock when he text was treated as block line element 
+Fix-put text and unoredered list put it into a div, made everything aligned.
+
+Jalen-Css added image, added short bio, change font, background with HTML.  Challenge getting it pushed to github.
+Was not able to overcome that as of yet.
+
+Hae Hwan Cha-Completed the challenge.  Used materials from Jared to push to github.  Same problem as Nicholas making the picture 
+align, but did not overcome this.  Recommended fix use CSS float feature.  Used W3Schools to do hover.
+
+Joshua-Working on challenge.  Roadblock was github commands.
+
+What we will do next-Create project Zero repository
+
+tutor project add <h6 class="slds-text-heading_small">Tutoring Resources</h6>
+              <h6 class="slds-text-heading_small">Tutoring Testimonials</h6>
+
+11/22
+implemented conditional rendering functionality
+
+11/23
+Nicholas setup for the project.  Made Kanban board in github.  Worked some kinks in lightning web components and change wireframe.  Worked on design.
+Josh reorganized notes.  Went over topics from QC and the quiz.
+
+Matari - worked on adding button to project with Jared and Next steps are to add more components.  Add more tags to html.
+Jalen- worked on wireframe.  Reviewed javascript.  Got npx command to work.
+
+Josh suggested if anyone wants to change roles for the following week
