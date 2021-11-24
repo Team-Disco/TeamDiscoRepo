@@ -1,0 +1,17 @@
+﻿Joshua
+* Worked on the project specifically organizing the placement and implementation of different components
+* Ran into issues with rendering the page with both npm and yarn.
+
+
+Matari
+* Added new component to webpage
+* Ran into issue with component alignment and fixed it using slds grid utility
+
+
+Nicholas
+* Worked on creating css animations for web page
+* Started implementing components to be placed within parent components for certain website functionalities
+
+
+Jalen
+* Worked on transferring source files to necessary repositories and completing project setup.
