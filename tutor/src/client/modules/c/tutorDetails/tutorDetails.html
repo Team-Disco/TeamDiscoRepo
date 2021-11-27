@@ -1,0 +1,14 @@
+<template>
+    <div style="width: 640px;">
+        <!--<lightning-card title={name}>-->
+           <p class="slds-p-around_medium">
+               <template if:true={showDetails}>
+                {details}
+               </template>
+               
+           </p>
+           <!--slot attribute for button to perform an action-->
+           <button class="slds-button slds-button_brand" onclick={toggleDetails}>Show/Hide Tutor Details</button>
+        <!--</lightning-card>-->
+    </div>
+</template>

@@ -1,0 +1,53 @@
+<template>
+    <!-- SHADOW BOUNDARY HERE -->
+  
+    <div class="container">
+      <!-- The template tag can be imagined as the bounds of the virtual DOM of the component -->
+
+      <h1 class="slds-text-heading_large">Niche Tutoring Service</h1>
+      
+      <h3 class="slds-text-heading_small">Subjects Available for Tutoring</h3>
+  
+      <!-- Directives are special HTML attributes we can use for some basic but very useful functionality -->
+  
+      <!-- if:true|false allows conditional rendering for a truthy or falsey value -->
+      <template if:true={detailsActive}>
+       <!-- <p>We can use Directives to conditionally render!</p>-->
+      </template>
+  
+      <!-- These are called Identifiers, and reference properties and methods -->
+      <c-custom-button label={btnLabel} onclick={handleClick}></c-custom-button>
+  
+      <!--<p>We can also used Directives to iterate over a list</p>-->
+  
+      <div class="iteration-holder">
+        <ul>
+          <!-- for:each will loop over a collection, and for:item gives a variable for the item. for:index will set your index value -->
+          <template for:each={mySubjects} for:item="subject">
+  
+            <!-- Each item must have a key using the key directive. It must be a string/number, and must be unique -->
+            <li class="info-holder" key={subject.name}>
+              <div class="info">{subject.name}</div>
+              <div class="info"><img src={subject.image} /></div>
+            </li>
+          </template>
+        </ul>
+  
+        <ul>
+          <!--<p>Using the iterator directive, we can do special functionality on the first and last elements!</p>-->
+          <!-- The iterator directive works like for:each, but can perform special actions on the first and last value -->
+          <template iterator:myiterator={mySubjects}>
+            <li key={myiterator.value.name}>
+  
+              <!-- Combining the if:true|false directive with the first and last -->
+              <hr if:true={myiterator.first} />
+              {myiterator.value.name}
+              <hr if:true={myiterator.last} />
+              
+            </li>
+          </template>
+        </ul>
+      </div>
+    </div>
+  </template>
+  

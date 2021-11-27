@@ -1,0 +1,36 @@
+button {
+    color: var(--theme-orange);
+    border: 2px solid var(--theme-orange);
+    border-radius: 5px;
+    background: gray;
+    font-weight: bold;
+    font-size: 1rem;
+    text-align: center;
+}
+
+button:hover {
+    color: var(--light-theme-orange);
+    background: var(--theme-orange);
+    cursor: pointer;
+}
+
+button:active {
+    background: gray;
+    color: var(--theme-orange);
+}
+button:focus-visible {
+    outline: 0;
+    border-width: 3px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.invert {
+    color: var(--light-theme-orange);
+    background: var(--theme-orange);
+}
+
+.invert:hover {
+    color: var(--theme-orange);
+    background: var(--light-theme-orange);
+    border: 2px solid var(--theme-orange);
+}

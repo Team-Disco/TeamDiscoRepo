@@ -1,0 +1,35 @@
+h1 {
+    margin: 2rem;
+    color: blue;
+    font-weight: 15rem;
+    font-size: 100px;
+}
+
+h3 {
+    margin: 3rem;
+    color: gray;
+}
+
+
+.container {
+    padding: 3rem;
+    text-align: center;
+}
+
+.iteration-holder {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.info-holder {
+    display: flex;
+}
+
+.info {
+    padding: 3rem;
+}
+
+.info img {
+    height: 20rem;
+}
