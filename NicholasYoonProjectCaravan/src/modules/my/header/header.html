@@ -1,4 +1,28 @@
 <template>
+    <div class="confirmEmailAlert" if:true={newAccountAlert}>
+        <div class="slds-notify slds-notify_alert" role="alert">
+            <span class="slds-assistive-text">info</span>
+            <span class="slds-icon_container slds-icon-utility-user slds-m-right_x-small"
+                title="Description of icon when needed">
+                <svg class="slds-icon slds-icon_x-small" aria-hidden="true">
+                    <use xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#user"></use>
+                </svg>
+            </span>
+            <h2>Please confirm your email at {accountEmail}
+            </h2>
+            <div class="slds-notify__close">
+                <button class="slds-button slds-button_icon slds-button_icon-small slds-button_icon-inverse"
+                    title="Close" onclick={closeAlert}>
+                    Close
+                    <svg class="slds-button__icon" aria-hidden="true">
+                        <use xlink:href="/assets/icons/utility-sprite/svg/symbols.svg#close"></use>
+                    </svg>
+                    <span class="slds-assistive-text">Close</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
     <div class="header">
         <div class="logoandname">
             <img src="./resources/caravan-logo.png" alt="logo for the caravan website" class="websitelogo">
@@ -6,7 +30,7 @@
         </div>
 
         <div class="addressDisplay">
-            <p class = "addressText"><b>Selected Address: </b></p>
+            <p class="addressText"><b>Selected Address: </b></p>
             <p>{SelectedAddress}</p>
         </div>
 
@@ -16,12 +40,12 @@
                 Search
             </button>
         </div>
-        
+
         <div class="accountButtons accountButtonsLoggedOut" if:false={loggedIn}>
             <button onclick={logIn}>
                 Login
             </button>
-            <button onclick={logIn}>
+            <button onclick={register}>
                 Register
             </button>
         </div>
@@ -37,7 +61,7 @@
     <div class="tabs">
         <template for:each={tabList} for:item="tabItem">
             <a key={tabItem.tabName} class="tabButtons" href={tabItem.tabLink}>
-                {tabItem.tabName}   
+                {tabItem.tabName}
             </a>
         </template>
     </div>

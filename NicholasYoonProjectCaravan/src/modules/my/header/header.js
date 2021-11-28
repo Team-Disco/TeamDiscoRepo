@@ -52,11 +52,26 @@ export default class Header extends LightningElement {
 
     loggedIn = false;
 
+    newAccountAlert = false;
+
+    accountEmail = "lorem@ipsum.com"
+
     logIn() {
         this.loggedIn = true;
+        this.newAccountAlert = false;
+    }
+
+    register() {
+        this.loggedIn = true;
+        this.newAccountAlert = true;
     }
 
     logOut() {
         this.loggedIn = false;
+        this.newAccountAlert = false;
+    }
+
+    closeAlert() {
+        this.newAccountAlert = false;
     }
 }
