@@ -50,11 +50,13 @@ button {
 }
 
 .tabButtons {
+    min-width: 130px;
     width: 100%;
     height: 30px;
     display: block;
     background-color: #b0f1b9;
     border-style: none;
+    font-weight: bold;
 }
 
 .tabButtons:hover {
@@ -65,4 +67,5 @@ button {
     display: flex;
     justify-content: space-evenly;
     background-color: #b0f1b9;
+    overflow-y: none;
 }

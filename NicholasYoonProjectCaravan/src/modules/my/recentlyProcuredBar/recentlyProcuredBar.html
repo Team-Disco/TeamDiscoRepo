@@ -3,7 +3,7 @@
         <h1>New Auctions</h1>
 
         <template for:each={itemList} for:item="pItem">
-            <div key={pItem.ProductID} class="pItemContainer">
+            <div key={pItem.ProductID} class="pItemContainer" if:true={pItem.AuctionActive}>
                 <img src={pItem.ProductPicURL} alt={pItem.ProductName} class="pItemImage">
                 <p class="pItemName">
                     {pItem.ProductName}

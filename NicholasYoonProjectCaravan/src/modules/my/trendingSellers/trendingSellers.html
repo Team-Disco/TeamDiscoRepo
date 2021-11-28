@@ -1,0 +1,21 @@
+<template>
+    <template for:each={trendingSellersList} for:item="trendingSeller">
+        <div class="trendingSellerContainer" key={trendingSeller.sellerName}>
+            <div>
+                <img src={trendingSeller.sellerImgURL} class="trendingSellerImage">
+                <p class="trendingSellerName">{trendingSeller.sellerName}</p>
+            </div>
+            <div class="trendingSellerItemsContainer">
+                <template for:each={trendingSeller.sellerTopItems} for:item="topItem" class="trendingSellerItemsContainer">
+                    <div key={topItem.ItemName} class="topItems">
+                        <div class="trendingSellerItemImageContainer">
+                            <img src={topItem.ItemImgURL} class="trendingSellerItemImage">
+                        </div>
+                        <p class="topItemName">{topItem.ItemName}</p>
+                        <p class="topItemPrice">{topItem.ItemPrice}</p>
+                    </div>
+                </template>
+            </div>
+        </div>
+    </template>
+</template>

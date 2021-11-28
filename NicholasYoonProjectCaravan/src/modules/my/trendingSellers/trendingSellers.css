@@ -1,0 +1,50 @@
+.trendingSellerItemImage {
+    max-width: 150px;
+    max-height: 150px;
+    padding: 10px;
+}
+
+.trendingSellerItemImageContainer {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    background-color: #9EA9A1;
+    border-color: #9EA9A1;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.trendingSellerItemImageContainer:hover {
+    border-color: #5f6160;
+    cursor: pointer;
+}
+
+.trendingSellerContainer {
+    display: flex;
+    background-color: #808F85;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #434444;
+}
+
+.trendingSellerItemsContainer {
+    flex-grow: 5;
+    display: flex;
+    justify-content: space-around;
+    overflow-y: auto;
+}
+
+.trendingSellerImage {
+    width: 230px;
+    min-width: 230px;
+}
+
+.topItems {
+    text-align: center;
+}
+
+.trendingSellerName {
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+}
