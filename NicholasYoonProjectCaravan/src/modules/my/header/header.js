@@ -48,6 +48,8 @@ export default class Header extends LightningElement {
         }
     ]
 
+    SelectedAddress = "lorem ipsum something";
+
     loggedIn = false;
 
     logIn() {

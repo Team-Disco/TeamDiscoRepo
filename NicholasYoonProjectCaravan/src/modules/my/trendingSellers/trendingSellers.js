@@ -39,18 +39,18 @@ export default class TrendingSellers extends LightningElement {
             sellerTopItems: [
                 {
                     ItemName: "Potion1",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
                 {
                     ItemName: "Potion2",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
                 {
                     ItemName: "Potion3",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
             ]
         },
@@ -60,18 +60,18 @@ export default class TrendingSellers extends LightningElement {
             sellerTopItems: [
                 {
                     ItemName: "Item1",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
                 {
                     ItemName: "Item2",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
                 {
                     ItemName: "Item3",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
             ]
         },
@@ -80,19 +80,19 @@ export default class TrendingSellers extends LightningElement {
             sellerImgURL: "./resources/images/emblems/emblem4.png",
             sellerTopItems: [
                 {
-                    ItemName: "Item1",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemName: "Enchanting Scroll 1",
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
                 {
-                    ItemName: "Item2",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemName: "Enchanting Scroll 2",
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
                 {
-                    ItemName: "Item3",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemName: "Enchanting Scroll 3",
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
             ]
         },
@@ -101,19 +101,19 @@ export default class TrendingSellers extends LightningElement {
             sellerImgURL: "./resources/images/emblems/emblem5.png",
             sellerTopItems: [
                 {
-                    ItemName: "Item1",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemName: "Mount 1",
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
                 {
-                    ItemName: "Item2",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemName: "Mount 2",
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
                 {
-                    ItemName: "Item3",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemName: "Mount 3",
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
             ]
         },
@@ -123,18 +123,18 @@ export default class TrendingSellers extends LightningElement {
             sellerTopItems: [
                 {
                     ItemName: "Item1",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
                 {
                     ItemName: "Item2",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
                 {
                     ItemName: "Item3",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
             ]
         },
@@ -143,19 +143,19 @@ export default class TrendingSellers extends LightningElement {
             sellerImgURL: "./resources/images/emblems/emblem7.png",
             sellerTopItems: [
                 {
-                    ItemName: "Item1",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemName: "Cursing Scroll 1",
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
                 {
-                    ItemName: "Item2",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemName: "Cursing Scroll 2",
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
                 {
-                    ItemName: "Item3",
-                    ItemImgURL: "",
-                    ItemPrice: ""
+                    ItemName: "Cursing Scroll 3",
+                    ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
+                    ItemPrice: "$???"
                 },
             ]
         }
