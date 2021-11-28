@@ -31,9 +31,9 @@
     </div>
     <div class="tabs">
         <template for:each={tabList} for:item="tabItem">
-            <button key={tabItem.tabName} class="tabButtons">
-                {tabItem.tabName}
-            </button>
+            <a key={tabItem.tabName} class="tabButtons" href={tabItem.tabLink}>
+                {tabItem.tabName}   
+            </a>
         </template>
     </div>
 </template>

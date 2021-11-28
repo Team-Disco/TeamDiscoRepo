@@ -33,14 +33,6 @@ button {
     margin-left: 10px;
 }
 
-.accountButtonsLoggedIn {
-    
-}
-
-.accountButtonsLoggedOut {
-
-}
-
 .logoandname {
     display: flex;
     margin-right: 90px;
@@ -58,11 +50,14 @@ button {
 .tabButtons {
     min-width: 130px;
     width: 100%;
-    height: 30px;
+    line-height: 30px;
     display: block;
     background-color: #b0f1b9;
     border-style: none;
     font-weight: bold;
+    text-align: center;
+    color: black;
+    
 }
 
 .tabButtons:hover {

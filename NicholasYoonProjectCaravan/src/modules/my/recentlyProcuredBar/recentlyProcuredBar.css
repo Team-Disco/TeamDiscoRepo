@@ -12,6 +12,9 @@ h1 {
 }
 
 .pItemImage {
+    animation: fadeInScreen ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
     max-height: 200px;
     max-width: 200px;
     margin-left: auto;
@@ -39,4 +42,13 @@ h1 {
 .pItemContainer:hover {
     border-color: #5f6160;
     cursor: pointer;
+}
+
+@keyframes fadeInScreen {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }

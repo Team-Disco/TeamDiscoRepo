@@ -41,10 +41,22 @@
 
 .topItems {
     text-align: center;
+    animation: fadeInScreen ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
 }
 
 .trendingSellerName {
     text-align: center;
     font-weight: bold;
     margin: 5px;
+}
+
+@keyframes fadeInScreen {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }

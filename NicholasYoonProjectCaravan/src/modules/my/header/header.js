@@ -4,47 +4,47 @@ export default class Header extends LightningElement {
     tabList = [
         {
             tabName: "New Arrivals",
-            tabLink: ""
+            tabLink: "https://www.google.com/search?q=New_Arrivals"
         },
         {
             tabName: "Auctions",
-            tabLink: ""
+            tabLink: "https://www.google.com/search?q=Auctions"
         },
         {
             tabName: "Consumables",
-            tabLink: ""
+            tabLink: "https://www.google.com/search?q=Consumables"
         },
         {
             tabName: "Armor",
-            tabLink: ""
+            tabLink: "https://www.google.com/search?q=Armor"
         },
         {
             tabName: "Melee Weaponry",
-            tabLink: ""
+            tabLink: "https://www.google.com/search?q=Melee+Weaponry"
         },
         {
             tabName: "Ranged Weaponry",
-            tabLink: ""
+            tabLink: "https://www.google.com/search?q=Ranged+Weaponry"
         },
         {
             tabName: "Magical Weaponry",
-            tabLink: ""
+            tabLink: "https://www.google.com/search?q=Magical+Weaponry"
         },
         {
             tabName: "Ammunition",
-            tabLink: ""
+            tabLink: "https://www.google.com/search?q=Ammunition"
         },
         {
             tabName: "Camping Gear",
-            tabLink: ""
+            tabLink: "https://www.google.com/search?q=Camping+Gear"
         },
         {
             tabName: "Tools",
-            tabLink: ""
+            tabLink: "https://www.google.com/search?q=Tools"
         },
         {
             tabName: "Raw Materials",
-            tabLink: ""
+            tabLink: "https://www.google.com/search?q=Raw+Materials"
         }
     ]
 
