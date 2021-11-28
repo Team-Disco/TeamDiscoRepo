@@ -47,4 +47,14 @@ export default class Header extends LightningElement {
             tabLink: ""
         }
     ]
+
+    loggedIn = false;
+
+    logIn() {
+        this.loggedIn = true;
+    }
+
+    logOut() {
+        this.loggedIn = false;
+    }
 }

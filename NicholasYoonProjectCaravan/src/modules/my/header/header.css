@@ -30,9 +30,17 @@ button {
     max-height: 80px;
 }
 
-.accountbuttons {
+.accountButtons {
     display: flex;
     margin-left: 10px;
+}
+
+.accountButtonsLoggedIn {
+    
+}
+
+.accountButtonsLoggedOut {
+
 }
 
 .logoandname {

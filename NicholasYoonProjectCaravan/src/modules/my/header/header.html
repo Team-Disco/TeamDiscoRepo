@@ -5,12 +5,20 @@
             <h1>Caravan</h1>
         </div>
         <input type="text" placeholder="Search...">
-        <div class="accountbuttons">
-            <button type="button">
+        <div class="accountButtons accountButtonsLoggedOut" if:false={loggedIn}>
+            <button onclick={logIn}>
                 Login
             </button>
-            <button>
+            <button onclick={logIn}>
                 Register
+            </button>
+        </div>
+        <div class="accountButtons accountButtonsLoggedIn" if:true={loggedIn}>
+            <button type="menu">
+                Account
+            </button>
+            <button onclick={logOut}>
+                Log Out
             </button>
         </div>
     </div>
