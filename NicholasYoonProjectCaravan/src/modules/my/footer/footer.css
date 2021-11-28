@@ -1,0 +1,47 @@
+.websiteName {
+    font-family: Papyrus, fantasy;
+    font-weight: bold;
+    font-size: 45px;
+    margin-top: 25px;
+    width: 100%;
+}
+
+.backToTopButton {
+    background-color: #F2E9DC;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #F2E9DC;
+}
+
+.backToTopButton:hover {
+    cursor: pointer;
+    border-color: #434444;
+}
+
+.footerBody {
+    background-color: #dfceb6;
+}
+
+.websiteLogo {
+    height: 80px;
+    width: 80px;
+}
+
+.logoandname {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 10px;
+}
+
+.otherInfo {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+}
+
+.contactInfo {
+    margin-bottom: 20px;
+}

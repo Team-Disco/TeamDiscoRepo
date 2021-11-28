@@ -4,7 +4,14 @@
             <img src="./resources/caravan-logo.png" alt="logo for the caravan website" class="websitelogo">
             <h1>Caravan</h1>
         </div>
-        <input type="text" placeholder="Search...">
+
+        <div class="searchBarAndButton">
+            <input type="text" placeholder="Search...">
+            <button class="searchButton" type="submit">
+                Search
+            </button>
+        </div>
+        
         <div class="accountButtons accountButtonsLoggedOut" if:false={loggedIn}>
             <button onclick={logIn}>
                 Login
@@ -14,7 +21,7 @@
             </button>
         </div>
         <div class="accountButtons accountButtonsLoggedIn" if:true={loggedIn}>
-            <button type="menu">
+            <button>
                 Account
             </button>
             <button onclick={logOut}>

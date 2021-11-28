@@ -7,7 +7,7 @@ export default class TrendingSellers extends LightningElement {
             sellerImgURL: "./resources/images/emblems/emblem1.png",
             sellerTopItems: [
                 {
-                    ItemName: "Leather Gloves",
+                    ItemName: "Armored Leather Gloves",
                     ItemImgURL: "./resources/images/trendingSellerItems/armoredGloves.png",
                     ItemPrice: "$168"
                 },

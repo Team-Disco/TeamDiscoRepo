@@ -1,9 +1,8 @@
 colorScheme {
-    --mainBgColor: #F2E9DC;
+    --footerColor: #F2E9DC;
     --mainColor: #9EA9A1;
     --elementHeaderColor: #808F85;
     --elementContentColor: #9EA9A1;
-    --footerColor: #F2E9DC
 }
 
 :root {
