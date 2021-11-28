@@ -1,0 +1,98 @@
+All{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*general style settings*/
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+/* moves list to the right of logo and seperates by 20px*/
+nav{
+    Flex: 1;
+    text-align: right;
+}
+/* aligns text right*/
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+/* removes list points*/
+
+nav ul li{
+    display: inline-block;
+    margin: 20px;
+}
+/* horizontal alignment */
+
+
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+
+p{
+    color: black;
+}
+
+.container{
+    max-width: 1300px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+}
+
+.h1{
+    font-size: 100px;
+    line-height: 60;
+    margin: 25px;
+    color: plum;
+}
+
+.btn{
+    display: inline-block;
+    background: plum;
+    color:black;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    transition: background 0.5s;
+}
+
+.btn:hover{
+    background: rgb(97, 97, 97);
+}
+
+.header{
+    background: radial-gradient(rgb(102, 102, 102));
+}
+
+.header row{
+    margin-top: 20px;
+}
+
+.catagories{
+    margin: 70px
+}
+
+.col-1{
+    flex-basis: 30%;
+    min-width: 250px;
+    margin-bottom: 30px;
+}
+
+.col-1 img{
+    width: 100%;
+    padding: 25px;
+    
+}
