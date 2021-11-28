@@ -1,0 +1,12 @@
+{
+    "ProductName1" : "HP Potion",
+    "ProductPicURL1" : "./resources/something1.png",
+    "ProductName2" : "MP Potion",
+    "ProductPicURL2" : "./resources/something2.png",
+    "ProductName3" : "Poison Dagger",
+    "ProductPicURL3" : "./resources/something3.png",
+    "ProductName4" : "Damascus Greatsword",
+    "ProductPicURL4" : "./resources/something4.png",
+    "ProductName5" : "Elderwood Bow",
+    "ProductPicURL5" : "./resources/something5.png"
+}

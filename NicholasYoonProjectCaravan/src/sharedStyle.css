@@ -1,0 +1,10 @@
+colorScheme {
+    --mainBgColor: #F2E9DC;
+    --mainColor: #91C499;
+    --elementHeaderColor: #808F85;
+    --elementContentColor: #9EA9A1;
+}
+
+:root {
+    background-color: #F2E9DC;
+}

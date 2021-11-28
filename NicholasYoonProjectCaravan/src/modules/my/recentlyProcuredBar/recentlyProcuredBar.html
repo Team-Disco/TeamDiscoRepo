@@ -1,0 +1,17 @@
+<template>
+    <div class="pBarContainer">
+        <h1>New Auctions</h1>
+
+        <template for:each={itemList} for:item="pItem">
+            <div key={pItem.ProductID} class="pItemContainer">
+                <img src={pItem.ProductPicURL} alt={pItem.ProductName} class="pItemImage">
+                <p class="pItemName">
+                    {pItem.ProductName}
+                </p>
+                <p class="pItemCurrentBid">
+                    Current Bid: {pItem.CurrentBid}
+                </p>
+            </div>
+        </template>
+    </div>
+</template>

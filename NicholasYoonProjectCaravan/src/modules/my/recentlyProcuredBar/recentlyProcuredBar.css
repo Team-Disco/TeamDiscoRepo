@@ -1,0 +1,39 @@
+h1 {
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    background-color: #808F85;
+}
+
+.pBarContainer {
+    background-color: #9EA9A1;
+}
+
+.pItemImage {
+    height: 200px;
+    width: 200px;
+}
+
+.pItemName {
+    text-align: center;
+    font-weight: bold;
+}
+
+.pItemContainer {
+    border-color: #808F85;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.pItemCurrentBid {
+    text-align: center;
+    font-weight: bold;
+    color: #6B6D0D;
+}
+
+.pItemContainer:hover {
+    border-color: #5f6160;
+    cursor: pointer;
+}

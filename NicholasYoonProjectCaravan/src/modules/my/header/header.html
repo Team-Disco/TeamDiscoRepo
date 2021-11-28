@@ -1,7 +1,24 @@
 <template>
     <div class="header">
-        <img src="./resources/caravan-logo.png" alt="logo for the caravan website" class="websitelogo">
-        <h1>Caravan</h1>
+        <div class="logoandname">
+            <img src="./resources/caravan-logo.png" alt="logo for the caravan website" class="websitelogo">
+            <h1>Caravan</h1>
+        </div>
         <input type="text" placeholder="Search...">
+        <div class="accountbuttons">
+            <button type="button">
+                Login
+            </button>
+            <button>
+                Register
+            </button>
+        </div>
+    </div>
+    <div class="tabs">
+        <template for:each={tabList} for:item="tabItem">
+            <button key={tabItem.tabName} class="tabButtons">
+                {tabItem.tabName}
+            </button>
+        </template>
     </div>
 </template>
