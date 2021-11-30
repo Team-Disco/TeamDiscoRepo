@@ -2,7 +2,7 @@ Nicholas -worked on project and implemented items from wireframe.  Roadblocks ma
 played flex frog.  Getting icons to work by prefixing the paths.  Was able to overcome and make the page responsive.
 
 Matari-working on the project. Completed the Kanban board.  Roadblock implementing css for the project.  I was able to overcome this about 50%
-but still needs work.
+but still needs work. story point * 2
 
 Joshua-worked on project.  Roadblock was getting yarn to work.  Switched to webcomponents.dev.  Roadblock 2 getting
 responsiveness to work.  Open curly bracket name of method closed parenthesis.
