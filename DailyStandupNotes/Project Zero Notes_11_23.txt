@@ -1,6 +1,6 @@
 11/17/2021
 
-Matari -Completed challenge.  Roadblocks was being able to pull working branch.  Overcame this by using a different name than origin.
+Matari -Completed challenge.  Roadblocks was being able to pull working branch.  Overcame this by using a different name than origin.  story point * 8
 
 Nicholas-Use float attribute putting image to the left,  Put text next to picture.  Roadblock when he text was treated as block line element 
 Fix-put text and unoredered list put it into a div, made everything aligned.
