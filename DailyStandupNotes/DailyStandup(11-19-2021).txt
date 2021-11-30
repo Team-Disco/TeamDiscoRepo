@@ -9,7 +9,7 @@ Joshua
 
 Matari
 * Worked on challenge 5 as well as project 0 wireframe.
-* Ran into some difficulty with implementing add and remove features for challenge 5. Also ran into some difficulty designing wireframe but was able to overcome
+* Ran into some difficulty with implementing add and remove features for challenge 5. Also ran into some difficulty designing wireframe but was able to overcome.  story point *2
 
 
 Nick
