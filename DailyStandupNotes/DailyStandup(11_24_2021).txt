@@ -5,7 +5,7 @@
 
 Matari
 * Added new component to webpage
-* Ran into issue with component alignment and fixed it using slds grid utility
+* Ran into issue with component alignment and fixed it using slds grid utility story point * 6
 
 
 Nicholas
