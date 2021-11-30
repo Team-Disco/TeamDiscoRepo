@@ -1,0 +1,16 @@
+﻿Matari
+* Worked on Entity Relationship Diagram and went through several revisions before getting it approved.
+* After finishing ERD, started implementing first part of project0 part 2 in creating custom objects and adding users.
+
+
+Joshua
+* Finished Entity Relationship Diagram and started on creating custom objects.
+* Had some questions about optional features for custom objects.
+
+
+Jalen
+* Finished up rest of project 0 part 1 and ran into some issues with styling website with css and accessing external files for scripts.
+
+
+Nicholas
+* Worked on Entity Relationship Diagram and started looking into different setting options for custom objects.

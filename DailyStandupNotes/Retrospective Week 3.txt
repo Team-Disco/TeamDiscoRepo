@@ -1,0 +1,23 @@
+﻿Matari
+* Had issues in project 0 with properly implementing css styling.
+* Went over notes over the past week to review content we covered and to aid in finishing project 0 part 1.
+* Continuing to work on project 0 part 2 for this upcoming sprint/week.
+* Velocity for Sprint: 22 on a 1-10 scale per feature rating system.
+
+
+Joshua
+* Had issues with getting javascript to function on project 0 part 1.
+* Learned that projects can be deceptively time consuming and thus will try to work earlier into the week for projects when possible to have ample time to overcome hurdles when they come up.
+* Velocity for Sprint: 14 on a 1-10 scale per feature rating system.
+
+
+Jalen
+* Had a lot of technical issues over the last sprint/week with project 0 part 1 with some issues including hardware with laptop.
+* Going forward into the week planning on asking more questions and reaching out for help when needed as well as working on projects and review earlier when possible.
+* Velocity for Sprint: 12 on 1-10 scale per feature rating system.
+
+
+Nicholas
+* Finished project 0 part 2 over the last sprint/week and ran into some issues with css and accessing slds assets but was able to overcome it through a bit of research and delving into how the project is set up.
+* Going into the next sprint/week will work on at least finishing the set up for projects ahead of time to get a more accurate grasp on how long each project should take.
+* Velocity for Sprint: 340 on a 1-100 scale per feature rating system.
