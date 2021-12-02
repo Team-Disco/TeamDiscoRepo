@@ -1,0 +1,4 @@
+Jalen-talked to Jared about web page, fixed some of his issues, finished up ERD
+Matari-put objects in saleforce lightning app, not able to see his payment standard object, going back to improve website as well, CSS issues
+Nicholas-added custom objects and fields to project, learned more about flows, had problems finding tools 
+Josh-studied over the test, came across some questions that couldn't figure out
