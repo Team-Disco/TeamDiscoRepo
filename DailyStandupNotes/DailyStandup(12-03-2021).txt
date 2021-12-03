@@ -1,0 +1,18 @@
+﻿Matari
+* Worked on project yesterday and struggled a bit with setting up security levels but was able to overcome it.
+* Studied over material we went over yesterday including save order of execution and some debug categories.
+* Is planning on next learning the audit trails.
+
+
+Nicholas
+* Worked on project and ran into some issues with establishing relationships with product standard object.
+* Planning on asking jared about whether or not to add unintended field to standard product object or create completely new custom object for needs.
+
+
+Joshua
+* Finished up project last night and is planning on going back and adding on some additional security features to increase complexity.
+* Had a bit of an issue with record types but was able to overcome it by contacting jared.
+
+
+Jalen
+* Worked on project with adding objects and finalizing ERD.
