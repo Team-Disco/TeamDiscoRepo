@@ -1,0 +1,5 @@
+Standup 20211206
+Nicholas-Finished up the last of the project, researched more about flows, issues: master to detail relationship with standard objects but can't use those
+Joshua-finished security on the project, issues: record level security
+Matari-did Kanban board for part III of project, finished dynamic form, started process builder, issue: could not generate process wanted with payment object, created custom object
+Jalen-worked on project, finishing up security, issues: a little behind schedule but going to catch up today
