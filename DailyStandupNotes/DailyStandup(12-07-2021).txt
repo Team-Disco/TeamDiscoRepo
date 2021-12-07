@@ -1,0 +1,14 @@
+﻿Matari
+* Attempted to implement approval processes for project
+* Ran into some issues with showing the message for the approver to approve the record.
+   * Overcame the issue by switching to salesforce classic
+* Planning on adding process builder to project
+* Studied for todays exams and QCs
+Joshua
+* Created kanban board for project 0 part 3
+* Studied for todays exams and QCs
+Jalen
+* Discussed project with jared to make sure is on track
+* Studied for todays exams and QCs
+Nicholas
+* Studied for todays exams and QCs
