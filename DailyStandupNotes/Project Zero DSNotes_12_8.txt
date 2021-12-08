@@ -1,0 +1,12 @@
+Matari-sfdx installed the salesforce extenstion packet.   I tried to do two flows I was able to get one to save and will continue finishing
+process automation.
+
+Jalen- put final touches on part 2 of the project.  Will start part 3.  No issues so far.
+
+Nicholas-worked flows.  Some of the objects have to be rearranged and incorporating new objects.
+Dealing with standard objects have restrictions and getting around those restrictions.
+
+Joshua-worked on approval processes, validations and work flow rules.  Approval processes relating that to relate that to structure of his
+business.  If revenue is not sufficient needs to be approved.  Road block is thinking of another case for an approval process,
+Thinking of one.
+
