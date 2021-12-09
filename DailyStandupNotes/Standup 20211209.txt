@@ -1,0 +1,4 @@
+Nicholas-restructured project, UML diagram and fields
+Jalen-finished up part II, working on flow, learned some more about apex
+Matari-tried to complete another process automation, worked on a flow, hit some troubles, but going to use trailheads to help him learn more
+Josh-worked on my flow, workflow rules and process builders, hit a snag with flow having trouble getting the flow to count through the unique value of a patient name
