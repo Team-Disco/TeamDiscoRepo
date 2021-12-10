@@ -1,0 +1,19 @@
+﻿Jalen
+Worked on project 3 and setting up recording process in order to submit by today.
+
+
+Matari
+Completed a second flow and process builder using trailhead as a reference.
+Wrote a brief rough draft script to test the video recording
+Planning on completing and submitting the video
+
+
+Joshua
+Studied the previous day’s material
+Planning on finishing up flows and approval process to submit project
+
+
+Nicholas
+Worked on project 3 and got to a solid finalized state of objects
+Looked into using apex to simulate rollup summary fields
+Planning on finishing process automation and submitting project.
