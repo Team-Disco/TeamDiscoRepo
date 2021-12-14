@@ -1,0 +1,9 @@
+﻿Matari
+* Stayed for office hours and reviewed triggers through looking at jared’s git repo
+* Planning on deciding on what features to show off during live demo for presentation.
+Joshua
+* Went over triggers last night with a focus on syntax
+* Finished up powerpoint presentation 
+Nicholas
+* Studied mostly over apex with a focus on syntax
+* Reviewed jared’s git repo to review syntax.
