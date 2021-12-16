@@ -1,0 +1,9 @@
+﻿Nicholas
+* Went over yesterday's material via recordings and personal research.
+Matari
+* Went over enabling the dev hub and had some issues with the CLI but was able to overcome it.
+* Did some research on experience clouds as well.
+* Finished a couple of trailheads to get more familiar with the content.
+Joshua
+* Did some research on experience clouds.
+* Worked on setup for project 1.
