@@ -1,0 +1,4 @@
+Nicholas-project1 worked on trigger, couldn't figure out how to reference both the parent and child in syntax, googled and resolved it himself
+Matari- worked on project1, researched the experience cloud, issue with pricebooks, couldn't put custom product in to the pricebook, will figure that out today
+work on triggers and include the helper class
+Josh-studied the material for QC and set up some LWC components HTML
