@@ -1,0 +1,17 @@
+﻿Matari
+* Studied over material
+* Worked on components by going over trailheads as a reference.
+* Used component library to add some prebuilt components to org
+* Ran into some issues with getting images to display on the experience site.
+* Ran into some issues with record level security impeding the addition of a component on the record page.
+* Ran into an issue with a components visibility not toggling due to some “missing properties” error
+
+
+Joshua
+* Worked on triggers for project 1 and ran into issues with querying for and storing values.
+
+
+Nicholas
+* Completed a component and did a bit of manual testing to ensure integrity
+* Expanded on component to allow in use for multiple use cases with different amounts of data
+* Ran into some issues with rendering the correct graphics in the component due to having to incorporate some trigonometry but fixed it by looking up equations on google.
