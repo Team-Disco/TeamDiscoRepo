@@ -1,0 +1,13 @@
+﻿Matari
+* Was able to get both video and components to work on experience site
+* Planning on writing and running test for said components.
+
+
+Joshua
+* Worked more on triggers and added some new custom objects to org to aid in components.
+* Planning on writing some tests for implemented features and working on lightning web components
+
+
+Nicholas
+* Made some changes to custom objects in org to reflect the needs of completed and planned components.
+* Started working on more components to add to experience site with a uniform style in mind.
