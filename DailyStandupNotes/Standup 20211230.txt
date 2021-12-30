@@ -1,0 +1,3 @@
+Nicholas-went over what we learned about aura components, worked on LWC, fully plan out the placement of components
+Matari-added another trigger, had issue with setting up testing, work on adding a LW component, want to finish up the experience site
+Josh-fooled around with experience cloud, set up site and put some LWC components in, finish up experience cloud site today, work on a second trigger today 
