@@ -1,0 +1,16 @@
+﻿Matari
+* Created accessories custom object and the accessories connect junction object for project 2.
+* Went over material for visual force pages and the challenges that were posted.
+* Planning on starting to working on challenges and look further into aura components
+
+
+Josh
+* Finished up working on the product object.
+* Created some validation rules for the product object and planning on finishing up any further validation rules.
+* Came up with an idea for a trigger and planning on implementing it.
+
+
+Nicholas
+* Created customization object and customization application junction object with fields.
+* Worked on setting up a new apex project with package based development.
+* Planning on implementing lwc to customize vehicles for sale from org.
