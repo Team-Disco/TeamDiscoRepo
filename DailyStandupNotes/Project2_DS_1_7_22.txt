@@ -8,4 +8,4 @@ what it would look like for the Carful org.  I reviewed the video on VF.  Today 
 review events with LWC and more review of Aura components and how they will interact with the other components in our project.
 Completed a wireframe and will make necessary additions to that today.
 
-Josh will continue working on the project.
+Josh will continue working on the project.  Completed som static resources for the project.
