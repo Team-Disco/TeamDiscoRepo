@@ -1,0 +1,11 @@
+Nicholas-worked on LWC planning and structuring phase, outling different fields, 
+how it will communicate with other components. 
+Barebones implementation by end of the day.  Will add more to the kanban board.
+
+
+Matari-went over Aura components and I created one, create Accessory lwc component just to see
+what it would look like for the Carful org.  I reviewed the video on VF.  Today I will
+review events with LWC and more review of Aura components and how they will interact with the other components in our project.
+Completed a wireframe and will make necessary additions to that today.
+
+Josh will continue working on the project.
